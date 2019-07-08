@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PruebaFirebass</string>
+    <string name="error_login">El Sistema no pudo conectarse a Google intente mas tarde nuevamente</string>
+</resources>
